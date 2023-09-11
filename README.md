@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Pandas Data Visulization with Python</b>
+  - [PGA Tour Strokes Gained Statistics](https://github.com/hayden-sutter/Pandas-Data-Visulization)
 
 <h2> 🤳 Connect with me:</h2>
 
