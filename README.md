@@ -1,10 +1,27 @@
-- Hi, I’m Hayden Sutter
-- I’m interested in finding a job as a Data Analyst.
-- I’m a recent graduate from Binghamton University with a B.S in Financial Economics and a MBA with a concentration in Managment Information Systems.
-- My undergraduate and graduate coursework included data analytics classes using python, HTML, SQL, R and Tableau.
-- This portfolio showcases some of the projects I completed throughout these classes.
+<h1>Hi, I'm Hayden! </h1>
 
-<!---
-hayden-sutter/hayden-sutter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>👨‍💻 Data Analytics Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/hayden-sutter
+
+<!--
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
