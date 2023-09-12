@@ -4,7 +4,10 @@
 
 - <b>Using Python</b>
   - Pandas - [PGA Tour Strokes Gained Statistics](https://github.com/hayden-sutter/Pandas-Data-Visulization)
-  - [Web Scraping]() 
+  - [Web Scraping]()
+ 
+- <b>SQL</b>
+  - [Relational Database using MySQL]()
 
 <h2> 🤳 Connect with me:</h2>
 
