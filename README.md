@@ -7,7 +7,7 @@
   - [Web Scraping](https://github.com/hayden-sutter/Web-Scraping)
  
 - <b>SQL</b>
-  - [Relational Database using MySQL]()
+  - [Relational Database using MySQL](https://github.com/hayden-sutter/SQL)
 
 <h2> 🤳 Connect with me:</h2>
 
