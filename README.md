@@ -10,7 +10,7 @@
   - [Relational Database using MySQL](https://github.com/hayden-sutter/SQL)
 
 - <b>Excel</b>
-  - [Pivot Tables, Vlookups and Visualizations]()
+  - [Pivot Tables, Vlookups and Visualizations](https://github.com/hayden-sutter/Excel)
 
 <h2> 🤳 Connect with me:</h2>
 
