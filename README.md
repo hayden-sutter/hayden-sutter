@@ -13,7 +13,7 @@
   - [Pivot Tables, Vlookups and Visualizations](https://github.com/hayden-sutter/Excel)
  
 - <b>Tableau</b>
-  - [Visulizations using Tableau]()
+  - [Visulizations using Tableau](https://github.com/hayden-sutter/Tableau)
 
 
 <h2> 🤳 Connect with me:</h2>
