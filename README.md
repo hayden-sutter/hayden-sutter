@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
-- <b>Using Python</b>
+- <b>Python</b>
   - [PGA Tour Strokes Gained Statistics](https://github.com/hayden-sutter/Pandas-Data-Visulization)
   - [Web Scraping](https://github.com/hayden-sutter/Web-Scraping)
  
