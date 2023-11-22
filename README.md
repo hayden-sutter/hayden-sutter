@@ -7,6 +7,7 @@
   - [Web Scraping](https://github.com/hayden-sutter/Web-Scraping)
  
 - <b>SQL</b>
+  - [Optimizing Online Sports Retail Revenue]()
   - [Relational Database using MySQL](https://github.com/hayden-sutter/SQL)
 
 - <b>Excel</b>
