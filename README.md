@@ -4,12 +4,14 @@
 
 - <b>Python</b>
   - [PGA Tour Strokes Gained Statistics](https://github.com/hayden-sutter/Pandas-Data-Visulization)
+<!--
   - [Web Scraping](https://github.com/hayden-sutter/Web-Scraping)
- 
+ -->
 - <b>SQL</b>
   - [Optimizing Online Sports Retail Revenue](https://github.com/hayden-sutter/SQL-Analysis)
-  - [Relational Database using MySQL](https://github.com/hayden-sutter/SQL)
-
+<!--
+   - [Relational Database using MySQL](https://github.com/hayden-sutter/SQL)
+-->
 - <b>Excel</b>
   - [Pivot Tables, Vlookups and Visualizations](https://github.com/hayden-sutter/Excel)
  
